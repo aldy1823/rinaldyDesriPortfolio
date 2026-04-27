@@ -32,11 +32,6 @@ const HeroExperience = () => {
       >
         <Room />
       </group>
-
-      {/* <mesh>
-        <boxGeometry args={[1, 1, 1]}  />
-        <meshStandardMaterial color={teal} />
-    </mesh> */}
     </Canvas>
   );
 };

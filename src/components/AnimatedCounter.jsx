@@ -4,7 +4,6 @@ import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
 
 import { counterItems } from "../constants";
-import CountUp from "react-countup";
 
 gsap.registerPlugin(ScrollTrigger);
 
