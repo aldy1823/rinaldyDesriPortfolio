@@ -27,6 +27,7 @@ section {
     --color-black-200: #282732;
     --color-blue-50: #839cb5;
     --color-blue-100: #2d2d38;
+    --color-navy: #0f011d;
 }
 
 @layer utilities {
@@ -242,7 +243,7 @@ section {
     }
 
     .timeline {
-        @apply absolute z-30 h-[110%] -top-10 w-14 md:w-28 bg-black;
+        @apply absolute z-30 h-[110%] -top-10 w-14 md:w-28 bg-navy;
     }
 
     .timeline-logo {
